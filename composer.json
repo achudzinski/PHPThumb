@@ -1,12 +1,11 @@
 {
-    "name": "masterexploder/phpthumb",
+    "name": "achudzinski/phpthumb",
     "type": "library",
     "license": "MIT",
     "description": "A library for manipulating images in PHP.",
     "keywords": ["image", "resize", "rotate"],
     "require": {
-        "php": ">=5.3.0",
-        "symfony/filesystem": "2.2.*"
+        "php": ">=5.3.0"
     },
     "homepage": "https://github.com/masterexploder/PHPThumb",
     "authors": [
